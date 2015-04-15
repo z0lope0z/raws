@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>kaaes.spotify.webapi.android</groupId>
+  <artifactId>spotify-web-api-android</artifactId>
+  <versioning>
+    <release>0.1.0</release>
+    <versions>
+      <version>0.1.0</version>
+    </versions>
+    <lastUpdated>20150415103857</lastUpdated>
+  </versioning>
+</metadata>
